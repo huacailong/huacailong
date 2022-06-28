@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a current phD student in University of Minnesota with skills in control systems and machine learning.
+I'm a current Ph.D. student at the University of Minnesota with skills in control systems and machine learning.
 
 
 ## Other Common Github Profile Sections
