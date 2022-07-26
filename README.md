@@ -7,11 +7,9 @@ I'm a current Ph.D. student at the University of Minnesota with skills in contro
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently studying at University of Minnesota.
 
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
+🧠 I'm currently learning control systems, non-equilibrium statistical mechanics, and machine learning.
 
 
 
