@@ -6,7 +6,7 @@
 I'm a current Ph.D. student at the University of Minnesota with skills in control systems and machine learning.
 
 
-## Other Common Github Profile Sections
+## Current Profile
 👩‍💻 I'm currently studying at University of Minnesota.
 
 🧠 I'm currently learning control systems, non-equilibrium statistical mechanics, and machine learning.
