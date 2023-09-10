@@ -17,4 +17,4 @@ Here are quick links to the released software:
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://huacailong.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cailong-hua-a9aa5719a/)
-[![linkedin]((https://www.flaticon.com/free-icon/email_542689?term=email&page=1&position=3&origin=search&related_id=542689))](https://www.linkedin.com/in/cailong-hua-a9aa5719a/)
+[![Email](https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667)](https://www.linkedin.com/in/cailong-hua-a9aa5719a/)
