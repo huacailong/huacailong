@@ -12,7 +12,7 @@ Here are quick links to the released software:
 
 [Non-Equilibrium Toolbox](https://github.com/SalapakaLab-SIMBioSys/Non-Equilibrium-Toolbox)
 
-
+## :email: hua00023@umn.edu
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://huacailong.github.io/)
