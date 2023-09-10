@@ -10,10 +10,8 @@ My main research interests lie in control systems, non-equilibrium statistical m
 ## :file_folder: Released Software
 Here are quick links to the released software:
 
-[Non-Equilibrium Toolbox](http://salapakalab.ece.umn.edu/)
+[Non-Equilibrium Toolbox](https://github.com/SalapakaLab-SIMBioSys/Non-Equilibrium-Toolbox)
 
-## 🛠 Skills
-Python, Matlab, Simulink, C++, Latex, Verilog, Keil, AMPL, LABVIEW, AFM, Optical Tweezer..
 
 
 ## 🔗 Links
