@@ -12,6 +12,8 @@ Here are quick links to the released software:
 
 [Non-Equilibrium Toolbox](https://github.com/SalapakaLab-SIMBioSys/Non-Equilibrium-Toolbox)
 
+[SMFS-Identification](https://github.com/SalapakaLab-SIMBioSys/SMFS-Identification)
+
 
 ## 🔗 Links
 :email: hua00023@umn.edu
